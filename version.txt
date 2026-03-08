@@ -1,4 +1,4 @@
-tag=v3.98-pre
+tag=v3.99-pre
 type=pre-release
-note=Initialising Tfl fix for switching slots during screensaver
-built=2026-03-08 20:07:30
+note=Reduced clock size
+built=2026-03-08 20:12:58
