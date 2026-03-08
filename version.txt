@@ -1,4 +1,4 @@
-tag=v3.97-pre
+tag=v3.98-pre
 type=pre-release
-note=Diagnostic formatting, OTA filtering and IP fix
-built=2026-03-08 19:44:00
+note=Initialising Tfl fix for switching slots during screensaver
+built=2026-03-08 20:07:30
