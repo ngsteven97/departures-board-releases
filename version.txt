@@ -1,4 +1,4 @@
-tag=v3.59
-type=stable
+tag=v3.60-pre
+type=pre-release
 note=OTA Stable and Pre-release fix
-built=2026-03-08 11:13:00
+built=2026-03-08 11:17:59
