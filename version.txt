@@ -1,4 +1,4 @@
-tag=v3.71-pre
+tag=v3.72-pre
 type=pre-release
-note=Sleep/Screensaver Configuration
-built=2026-03-08 13:08:45
+note=IP/Host Address Display
+built=2026-03-08 13:19:21
