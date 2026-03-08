@@ -1,4 +1,4 @@
-tag=v3.96-pre
+tag=v3.97-pre
 type=pre-release
-note=IP/hostname and sliding text fix (returned)
-built=2026-03-08 19:40:31
+note=Diagnostic formatting, OTA filtering and IP fix
+built=2026-03-08 19:44:00
