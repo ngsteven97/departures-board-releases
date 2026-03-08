@@ -1,4 +1,4 @@
-tag=v3.73-pre
+tag=v3.74-pre
 type=pre-release
-note=IP/Host Address Display
-built=2026-03-08 13:30:07
+note=Guide page is now homepage
+built=2026-03-08 14:46:31
