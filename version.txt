@@ -1,4 +1,4 @@
 tag=v3.94-pre
 type=pre-release
-note=Updated OTA filter
-built=2026-03-08 19:14:43
+note=Fix for stuck on Initialising XX inteface if switching during screensaver
+built=2026-03-08 19:21:41
