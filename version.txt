@@ -1,4 +1,4 @@
-tag=v3.75-pre
+tag=v3.76-pre
 type=pre-release
-note=Guide page is now homepage
-built=2026-03-08 14:53:12
+note=Updated screensaver updat schedule
+built=2026-03-08 15:01:15
