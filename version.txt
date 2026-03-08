@@ -1,4 +1,4 @@
-tag=v3.100-pre
-type=pre-release
-note=OTA update on switch on
-built=2026-03-08 20:25:10
+tag=v3.101
+type=stable
+note=OTA updated and slot switch fixed
+built=2026-03-08 20:27:03
