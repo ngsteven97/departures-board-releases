@@ -1,4 +1,4 @@
-tag=v3.58-pre
-type=pre-release
-note=Pre-release test
-built=2026-03-08 11:08:53
+tag=v3.59
+type=stable
+note=OTA Stable and Pre-release fix
+built=2026-03-08 11:13:00
