@@ -1,4 +1,4 @@
-tag=v3.95-pre
+tag=v3.96-pre
 type=pre-release
-note=Slot fix
-built=2026-03-08 19:26:56
+note=IP/hostname and sliding text fix (returned)
+built=2026-03-08 19:40:31
