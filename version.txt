@@ -1,4 +1,4 @@
-tag=v3.99-pre
+tag=v3.100-pre
 type=pre-release
-note=Reduced clock size
-built=2026-03-08 20:12:58
+note=OTA update on switch on
+built=2026-03-08 20:25:10
