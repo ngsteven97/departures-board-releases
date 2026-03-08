@@ -1,0 +1,4 @@
+tag=v3.58-pre
+type=pre-release
+note=Pre-release test
+built=2026-03-08 11:08:53
