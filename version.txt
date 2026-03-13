@@ -1,4 +1,4 @@
-tag=v3.196-pre
+tag=v3.197-pre
 type=pre-release
-note=Removed line text from Elizabeth line
-built=2026-03-13 15:57:24
+note=RSS feed clock sync fix
+built=2026-03-13 16:07:59
