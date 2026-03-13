@@ -1,4 +1,4 @@
-tag=v3.186-pre
+tag=v3.187-pre
 type=pre-release
-note=Filter fix and dark mode
-built=2026-03-13 13:52:46
+note=Updated dark mode GUIs
+built=2026-03-13 14:05:15
