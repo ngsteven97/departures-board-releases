@@ -1,4 +1,4 @@
-tag=v3.201-pre
-type=pre-release
-note=RSS feed clock sync fix
-built=2026-03-13 17:21:10
+tag=v3.202
+type=stable
+note=Train RSS feed and clock fix
+built=2026-03-13 17:25:20
