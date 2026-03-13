@@ -1,4 +1,4 @@
-tag=v3.188-pre
-type=pre-release
-note=Select filter untick option and updated dark mode GUI
-built=2026-03-13 14:20:43
+tag=v3.189
+type=stable
+note=Tube Filter fixed and dark mode GUI added
+built=2026-03-13 14:27:45
