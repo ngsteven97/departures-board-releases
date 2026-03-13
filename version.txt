@@ -1,4 +1,4 @@
-tag=v3.179-pre
+tag=v3.180-pre
 type=pre-release
 note=Default slot configuration fix
-built=2026-03-13 11:43:59
+built=2026-03-13 11:58:56
