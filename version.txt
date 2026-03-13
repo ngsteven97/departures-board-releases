@@ -1,4 +1,4 @@
-tag=v3.174-pre
+tag=v3.175-pre
 type=pre-release
-note=Default slot button size fix and OTA update progress bar
-built=2026-03-13 10:35:59
+note=Fixed default/clear button sizing
+built=2026-03-13 10:43:18
