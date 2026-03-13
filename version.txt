@@ -1,4 +1,4 @@
-tag=v3.171-pre
+tag=v3.172-pre
 type=pre-release
-note=Added async progress bar on webpage
-built=2026-03-13 10:08:21
+note=Webpage refresh after configuration change
+built=2026-03-13 10:16:26
