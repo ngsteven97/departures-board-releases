@@ -1,4 +1,4 @@
-tag=v4.0
-type=stable
-note=Fixed rail and combined mode for rail replacement + bug fixes
-built=2026-03-15 19:25:13
+tag=v4.1-pre
+type=pre-release
+note=Initial boot cycle loop and set default to flip 180deg
+built=2026-03-15 19:33:26
