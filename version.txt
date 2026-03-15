@@ -1,4 +1,4 @@
-tag=v4.15-pre
+tag=v4.16-pre
 type=pre-release
 note=Setup bootloop fix - debug
-built=2026-03-15 23:09:23
+built=2026-03-15 23:14:30
