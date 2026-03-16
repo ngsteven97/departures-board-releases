@@ -1,4 +1,4 @@
-tag=v4.32
-type=stable
-note=Added Erase WiFi button and rewrite of Guide
-built=2026-03-16 00:52:39
+tag=v4.33-pre
+type=pre-release
+note=Updated lineNaptanMap builder
+built=2026-03-16 19:01:01
