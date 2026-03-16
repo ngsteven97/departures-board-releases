@@ -1,4 +1,4 @@
-tag=v4.29-pre
-type=pre-release
-note=Firmware update fetch fix - using old v4.4 code
-built=2026-03-16 00:31:10
+tag=v4.31
+type=stable
+note=OTA update and setup boot loop fix
+built=2026-03-16 00:43:33
