@@ -1,4 +1,4 @@
-tag=v4.31
+tag=v4.32
 type=stable
-note=OTA update and setup boot loop fix
-built=2026-03-16 00:43:33
+note=Added Erase WiFi button and rewrite of Guide
+built=2026-03-16 00:52:39
