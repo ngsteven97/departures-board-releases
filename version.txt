@@ -1,4 +1,4 @@
-tag=v4.39-pre
+tag=v4.40-pre
 type=pre-release
-note=Added hard reset on bootup code
-built=2026-03-16 23:36:20
+note=Tube line filter change - prompt if no lines are selected
+built=2026-03-16 23:42:53
