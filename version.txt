@@ -1,4 +1,4 @@
-tag=v4.26-pre
+tag=v4.27-pre
 type=pre-release
 note=Firmware update fetch fix
-built=2026-03-16 00:16:57
+built=2026-03-16 00:22:58
