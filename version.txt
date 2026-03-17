@@ -1,4 +1,4 @@
-tag=v4.50-pre
-type=pre-release
-note=OTA debug print
-built=2026-03-17 18:35:00
+tag=v4.51
+type=stable
+note=OTA update patch
+built=2026-03-17 18:36:53
