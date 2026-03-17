@@ -1,4 +1,4 @@
-tag=v4.43-pre
-type=pre-release
-note=Updated web GUI guide
-built=2026-03-17 00:05:27
+tag=v4.44
+type=stable
+note=Fixed Elizabeth line, updated pill box size, removed default line logic, and updated GUI guide
+built=2026-03-17 00:11:49
