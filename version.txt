@@ -1,4 +1,4 @@
-tag=v4.48-pre
-type=pre-release
-note=Fixed switch ON OTA update
-built=2026-03-17 18:16:40
+tag=v4.49
+type=stable
+note=Test stable release
+built=2026-03-17 18:19:35
