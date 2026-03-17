@@ -1,4 +1,4 @@
-tag=v4.58
-type=stable
-note=OTA update patch
-built=2026-03-17 19:19:58
+tag=v4.59-pre
+type=pre-release
+note=Updated OTA instructions and improve slow boot
+built=2026-03-17 19:27:17
