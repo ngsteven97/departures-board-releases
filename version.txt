@@ -1,4 +1,4 @@
-tag=v4.55
-type=stable
-note=OTA update patch
-built=2026-03-17 18:52:18
+tag=v4.56-pre
+type=pre-release
+note=Added chunk reading to firmware update check
+built=2026-03-17 18:57:49
