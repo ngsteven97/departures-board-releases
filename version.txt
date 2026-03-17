@@ -1,4 +1,4 @@
-tag=v4.61-pre
+tag=v4.62-pre
 type=pre-release
 note=Make boot up quicker if no OTA update
-built=2026-03-17 19:35:30
+built=2026-03-17 19:39:10
