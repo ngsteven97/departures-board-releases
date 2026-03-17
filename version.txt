@@ -1,4 +1,4 @@
-tag=v4.65-pre
-type=pre-release
-note=Updated train RSS feed/station list scrolling
-built=2026-03-17 19:55:44
+tag=v4.66
+type=stable
+note=Corrected train station/RSS feed scrolling logic
+built=2026-03-17 20:29:12
