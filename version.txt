@@ -1,4 +1,4 @@
-tag=v4.74-pre
+tag=v4.75-pre
 type=pre-release
-note=Updated settings and debug print for weather
-built=2026-03-18 23:01:25
+note=Updated weather
+built=2026-03-18 23:05:28
