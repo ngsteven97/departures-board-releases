@@ -1,4 +1,4 @@
-tag=v4.70
-type=stable
-note=Rewrite bus logic for scheduled/expected buses
-built=2026-03-17 21:28:43
+tag=v4.71-pre
+type=pre-release
+note=Added NTP clock fallback
+built=2026-03-18 00:17:39
