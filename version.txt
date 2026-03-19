@@ -1,4 +1,4 @@
-tag=v4.85-pre
-type=pre-release
-note=Updated weather
-built=2026-03-19 00:16:33
+tag=v4.86
+type=stable
+note=Added weather, cleaned up settings, added daily check
+built=2026-03-19 00:28:36
