@@ -1,4 +1,4 @@
-tag=v4.83-pre
+tag=v4.84-pre
 type=pre-release
-note=Updated weather
-built=2026-03-18 23:57:54
+note=Changed settings layout
+built=2026-03-19 00:05:09
