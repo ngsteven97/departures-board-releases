@@ -1,4 +1,4 @@
-tag=v4.96-pre
+tag=v4.97-pre
 type=pre-release
 note=Fixed tube scrolling overlap
-built=2026-03-20 15:24:16
+built=2026-03-20 15:36:24
