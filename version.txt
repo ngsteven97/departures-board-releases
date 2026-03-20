@@ -1,4 +1,4 @@
-tag=v4.95-pre
+tag=v4.96-pre
 type=pre-release
-note=Fixed blank area screen rewrite
-built=2026-03-20 14:17:11
+note=Fixed tube scrolling overlap
+built=2026-03-20 15:24:16
