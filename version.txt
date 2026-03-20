@@ -1,4 +1,4 @@
-tag=v4.99
-type=stable
-note=Added weather search to webpage GUI
-built=2026-03-20 15:50:39
+tag=v4.100-pre
+type=pre-release
+note=Fixed tube scrolling overlap
+built=2026-03-20 16:52:24
