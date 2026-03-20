@@ -1,4 +1,4 @@
-tag=v4.103
-type=stable
-note=Added tube line cache and adjusted settings page
-built=2026-03-20 18:07:03
+tag=v4.104-pre
+type=pre-release
+note=Updated network cache and DOM guard
+built=2026-03-20 18:28:46
