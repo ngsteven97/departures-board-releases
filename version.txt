@@ -1,4 +1,4 @@
-tag=v4.94-pre
+tag=v4.95-pre
 type=pre-release
 note=Fixed blank area screen rewrite
-built=2026-03-20 13:58:26
+built=2026-03-20 14:17:11
