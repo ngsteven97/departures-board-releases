@@ -1,4 +1,4 @@
-tag=v4.101
-type=stable
-note=Screen refresh artifacts fix
-built=2026-03-20 17:50:53
+tag=v4.102-pre
+type=pre-release
+note=Added tube line cache
+built=2026-03-20 17:57:22
