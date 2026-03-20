@@ -1,4 +1,4 @@
-tag=v4.91
-type=stable
-note=Updated weather
-built=2026-03-19 20:39:45
+tag=v4.92-pre
+type=pre-release
+note=Screen refresh fix when RSS feed is used
+built=2026-03-20 13:28:49
