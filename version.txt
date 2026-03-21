@@ -1,4 +1,4 @@
-tag=v4.106-pre
-type=pre-release
-note=Fixed tube artifact ghosting with RSS feed
-built=2026-03-21 09:54:24
+tag=v4.107
+type=stable
+note=Fixed tube line artifacting
+built=2026-03-21 11:54:24
