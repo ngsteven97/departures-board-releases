@@ -1,4 +1,4 @@
-tag=v5.10-pre
+tag=v5.11-pre
 type=pre-release
-note=[DEV]: Added BODS fallback for bus
-built=2026-04-02 19:33:26
+note=[DEV]: Added BODS debug print for bus
+built=2026-04-02 19:48:33
