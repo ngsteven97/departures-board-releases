@@ -1,4 +1,4 @@
-tag=v5.14-pre
+tag=v5.15-pre
 type=pre-release
-note=Updated tube bottom row conflict with clock
-built=2026-04-02 20:19:32
+note=Added third/fourth row scrolling speed setting
+built=2026-04-03 11:02:29
