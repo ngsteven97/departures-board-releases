@@ -1,4 +1,4 @@
-tag=v5.18-pre
+tag=v5.19-pre
 type=pre-release
-note=Added setup wizard page
-built=2026-04-03 21:44:48
+note=Updated setup wizard location finder
+built=2026-04-03 21:52:18
