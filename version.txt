@@ -1,4 +1,4 @@
-tag=v5.17-pre
+tag=v5.18-pre
 type=pre-release
 note=Added setup wizard page
-built=2026-04-03 21:31:50
+built=2026-04-03 21:44:48
