@@ -1,4 +1,4 @@
-tag=v5.41-pre
+tag=v5.42-pre
 type=pre-release
-note=Increased train search area
-built=2026-04-04 23:01:34
+note=Fixed setup wizard save process
+built=2026-04-04 23:17:31
