@@ -1,4 +1,4 @@
-tag=v5.38-pre
+tag=v5.39-pre
 type=pre-release
-note=Updated bus resolve logic
-built=2026-04-04 22:41:04
+note=Increased train search area
+built=2026-04-04 22:48:41
