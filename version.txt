@@ -1,4 +1,4 @@
-tag=v5.34-pre
+tag=v5.35-pre
 type=pre-release
-note=Updated quick search criteria of setup wizard
-built=2026-04-04 21:59:46
+note=Added batch bus search for setup wizard
+built=2026-04-04 22:16:19
