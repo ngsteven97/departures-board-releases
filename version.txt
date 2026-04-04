@@ -1,4 +1,4 @@
-tag=v5.43-pre
+tag=v5.44-pre
 type=pre-release
-note=Fixed setup wizard save process
-built=2026-04-04 23:28:55
+note=Fixed setup save process
+built=2026-04-04 23:38:53
