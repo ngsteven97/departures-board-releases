@@ -1,4 +1,4 @@
-tag=v5.35-pre
+tag=v5.36-pre
 type=pre-release
-note=Added batch bus search for setup wizard
-built=2026-04-04 22:16:19
+note=Reduce resolve buses to 5
+built=2026-04-04 22:26:04
