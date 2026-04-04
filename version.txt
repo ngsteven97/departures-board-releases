@@ -1,4 +1,4 @@
-tag=v5.24
-type=stable
-note=Added setup wizard to find services from postcode
-built=2026-04-04 15:15:09
+tag=v5.25-pre
+type=pre-release
+note=Updated setup.htm file
+built=2026-04-04 18:45:59
