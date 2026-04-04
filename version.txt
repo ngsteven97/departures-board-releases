@@ -1,4 +1,4 @@
-tag=v5.20-pre
+tag=v5.21-pre
 type=pre-release
 note=Updated setup wizard location finder
-built=2026-04-03 22:32:23
+built=2026-04-04 13:34:39
