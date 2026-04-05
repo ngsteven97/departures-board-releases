@@ -1,4 +1,4 @@
-tag=v5.57-pre
+tag=v5.58-pre
 type=pre-release
-note=Fix screen OTA refresh bug
-built=2026-04-05 15:16:04
+note=Updated OTA message
+built=2026-04-05 15:25:58
