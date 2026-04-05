@@ -1,4 +1,4 @@
-tag=v5.47-pre
+tag=v5.48-pre
 type=pre-release
-note=Set Daily update check to default
-built=2026-04-05 10:59:38
+note=Improved efficiency in combined mode
+built=2026-04-05 11:15:17
