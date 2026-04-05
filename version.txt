@@ -1,4 +1,4 @@
-tag=v5.56-pre
+tag=v5.57-pre
 type=pre-release
-note=Updated OTA settings
-built=2026-04-05 15:05:13
+note=Fix screen OTA refresh bug
+built=2026-04-05 15:16:04
