@@ -1,4 +1,4 @@
-tag=v5.50-pre
+tag=v5.51-pre
 type=pre-release
-note=Add mode debug print
-built=2026-04-05 11:50:44
+note=Fixed train fetching bug
+built=2026-04-05 11:57:56
