@@ -1,4 +1,4 @@
-tag=v5.58-pre
+tag=v5.59-pre
 type=pre-release
-note=Updated OTA message
-built=2026-04-05 15:25:58
+note=Updated OTA progress bar and added hostname
+built=2026-04-05 15:36:19
