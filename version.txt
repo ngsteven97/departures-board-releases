@@ -1,4 +1,4 @@
-tag=v5.48-pre
+tag=v5.49-pre
 type=pre-release
-note=Improved efficiency in combined mode
-built=2026-04-05 11:15:17
+note=Improved scrolling guard
+built=2026-04-05 11:26:13
