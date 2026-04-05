@@ -1,4 +1,4 @@
-tag=v5.60-pre
-type=pre-release
-note=Updated OTA progress bar
-built=2026-04-05 15:46:15
+tag=v5.61
+type=stable
+note=Updated daily OTA fix
+built=2026-04-05 15:51:07
