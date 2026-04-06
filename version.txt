@@ -1,4 +1,4 @@
-tag=v5.71-pre
+tag=v5.72-pre
 type=pre-release
 note=Fixed RSS scroll speed setting for tube
-built=2026-04-06 13:48:16
+built=2026-04-06 13:51:53
