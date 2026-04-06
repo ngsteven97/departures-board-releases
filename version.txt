@@ -1,4 +1,4 @@
-tag=v6.2-pre
+tag=v6.3-pre
 type=pre-release
-note=Fixed factory reset
-built=2026-04-06 20:26:09
+note=Added setup wizard redirect and changed reset time to 5 seconds
+built=2026-04-06 20:33:05
