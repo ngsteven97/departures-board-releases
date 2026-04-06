@@ -1,4 +1,4 @@
-tag=v6.4-pre
+tag=v6.5-pre
 type=pre-release
-note=Fix initial setup stuck case
-built=2026-04-06 20:50:39
+note=Updated WiFiManager
+built=2026-04-06 20:54:38
