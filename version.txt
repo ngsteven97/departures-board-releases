@@ -1,4 +1,4 @@
-tag=v6.7-pre
-type=pre-release
-note=Set factory reset to 5 seconds
-built=2026-04-06 21:02:29
+tag=v6.8
+type=stable
+note=Fixed factory reset and boot up sequence
+built=2026-04-06 21:16:50
