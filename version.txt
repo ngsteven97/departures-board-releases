@@ -1,4 +1,4 @@
-tag=v5.67-pre
+tag=v5.68-pre
 type=pre-release
 note=Fixed RSS/Clock conflict on tube mode
-built=2026-04-06 13:19:01
+built=2026-04-06 13:23:37
