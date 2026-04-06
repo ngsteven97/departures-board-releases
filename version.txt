@@ -1,4 +1,4 @@
-tag=v6.0
-type=stable
-note=Fixed Tube mode RSS feed
-built=2026-04-06 20:15:25
+tag=v6.1-pre
+type=pre-release
+note=Fixed factory reset
+built=2026-04-06 20:18:49
