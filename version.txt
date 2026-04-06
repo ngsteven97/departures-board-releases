@@ -1,4 +1,4 @@
-tag=v5.63
-type=stable
-note=Force daily OTA update
-built=2026-04-05 16:00:32
+tag=v5.64-pre
+type=pre-release
+note=Fixed RSS/Clock conflict on tube mode
+built=2026-04-06 12:20:12
