@@ -1,4 +1,4 @@
-tag=v5.81-pre
+tag=v5.82-pre
 type=pre-release
 note=Fixed RSS first load in bug
-built=2026-04-06 19:19:18
+built=2026-04-06 19:33:33
