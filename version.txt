@@ -1,4 +1,4 @@
-tag=v5.83-pre
+tag=v5.84-pre
 type=pre-release
-note=Fixed RSS first load in bug
-built=2026-04-06 19:40:31
+note=Change RSS feed font to Underground10
+built=2026-04-06 19:52:14
