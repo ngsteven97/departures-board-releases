@@ -1,4 +1,4 @@
-tag=v5.74-pre
+tag=v5.75-pre
 type=pre-release
-note=Fixed bootup progress bar for firmware update
-built=2026-04-06 18:27:17
+note=Fixed RSS/Clock conflict on tube mode
+built=2026-04-06 18:36:12
