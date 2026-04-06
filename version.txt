@@ -1,4 +1,4 @@
-tag=v6.3-pre
+tag=v6.4-pre
 type=pre-release
-note=Added setup wizard redirect and changed reset time to 5 seconds
-built=2026-04-06 20:33:05
+note=Fix initial setup stuck case
+built=2026-04-06 20:50:39
