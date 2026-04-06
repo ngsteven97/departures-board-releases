@@ -1,4 +1,4 @@
-tag=v6.5-pre
+tag=v6.6-pre
 type=pre-release
-note=Updated WiFiManager
-built=2026-04-06 20:54:38
+note=Set factory reset to 5 seconds
+built=2026-04-06 20:59:00
