@@ -1,4 +1,4 @@
-tag=v6.1-pre
+tag=v6.2-pre
 type=pre-release
 note=Fixed factory reset
-built=2026-04-06 20:18:49
+built=2026-04-06 20:26:09
