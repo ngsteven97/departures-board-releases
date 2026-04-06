@@ -1,4 +1,4 @@
-tag=v5.72-pre
+tag=v5.73-pre
 type=pre-release
-note=Fixed RSS scroll speed setting for tube
-built=2026-04-06 13:51:53
+note=Fixed bootup progress bar for firmware update
+built=2026-04-06 13:59:10
