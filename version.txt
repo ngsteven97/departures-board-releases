@@ -1,4 +1,4 @@
-tag=v6.8
-type=stable
-note=Fixed factory reset and boot up sequence
-built=2026-04-06 21:16:50
+tag=v6.9-pre
+type=pre-release
+note=Updated setup page
+built=2026-04-08 18:05:45
