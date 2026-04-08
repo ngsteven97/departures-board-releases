@@ -1,4 +1,4 @@
-tag=v6.14-pre
-type=pre-release
+tag=v6.15
+type=stable
 note=Updated setup page
-built=2026-04-09 00:04:35
+built=2026-04-09 00:09:03
