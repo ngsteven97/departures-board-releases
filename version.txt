@@ -1,4 +1,4 @@
-tag=v6.15
+tag=v6.16
 type=stable
-note=Updated setup page
-built=2026-04-09 00:09:03
+note=Updated tube to list more stations + services
+built=2026-04-09 19:05:02
