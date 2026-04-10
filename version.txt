@@ -1,4 +1,4 @@
-tag=v6.26-pre
+tag=v6.27-pre
 type=pre-release
-note=Air mode NTP fix
-built=2026-04-11 00:20:43
+note=Air mode fix
+built=2026-04-11 00:25:37
