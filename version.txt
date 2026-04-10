@@ -1,4 +1,4 @@
-tag=v6.20-pre
+tag=v6.21-pre
 type=pre-release
 note=Added air mode
-built=2026-04-10 12:27:08
+built=2026-04-10 12:54:50
