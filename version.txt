@@ -1,4 +1,4 @@
-tag=v6.27-pre
+tag=v6.28-pre
 type=pre-release
-note=Air mode fix
-built=2026-04-11 00:25:37
+note=Fix air mode screen spacing
+built=2026-04-11 00:29:15
