@@ -1,4 +1,4 @@
-tag=v7.0
+tag=v6.29
 type=stable
 note=Air Mode release
-built=2026-04-18 14:23:26
+built=2026-04-18 14:34:34
