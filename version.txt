@@ -1,4 +1,4 @@
-tag=v7.2-pre
+tag=v7.3-pre
 type=pre-release
-note=Updated postcode setting
-built=2026-04-18 18:20:22
+note=Fixed scrolling speed
+built=2026-04-18 18:22:45
