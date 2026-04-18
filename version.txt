@@ -1,4 +1,4 @@
-tag=v7.0-pre
+tag=v7.1-pre
 type=pre-release
 note=Air Mode release
-built=2026-04-18 16:18:05
+built=2026-04-18 16:20:21
