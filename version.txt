@@ -1,4 +1,4 @@
-tag=v7.0
-type=stable
-note=Air Mode release
-built=2026-04-18 14:37:18
+tag=v8.0-pre
+type=pre-release
+note=Re-build of air mode binary
+built=2026-04-18 14:43:49
