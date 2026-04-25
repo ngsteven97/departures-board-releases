@@ -1,4 +1,4 @@
-tag=v7.6
+tag=v7.7
 type=stable
-note=Updated accent letters on air mode printing and fixed scrolling setting
-built=2026-04-25 23:53:23
+note=Fixed OTA update on air mode
+built=2026-04-26 00:06:37
