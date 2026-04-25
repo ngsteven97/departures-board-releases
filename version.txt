@@ -1,4 +1,4 @@
-tag=v7.5
+tag=v7.6
 type=stable
-note=Corrected formatting on air mode and button features
-built=2026-04-25 21:52:00
+note=Updated accent letters on air mode printing and fixed scrolling setting
+built=2026-04-25 23:53:23
