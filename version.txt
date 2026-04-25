@@ -1,4 +1,4 @@
-tag=v7.7
+tag=v7.9
 type=stable
-note=Fixed OTA update on air mode
-built=2026-04-26 00:06:37
+note=Fixed NTP/OTA order
+built=2026-04-26 00:19:20
