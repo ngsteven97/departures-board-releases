@@ -1,4 +1,4 @@
-tag=v7.9
+tag=v7.10
 type=stable
-note=Fixed NTP/OTA order
-built=2026-04-26 00:19:20
+note=Fixed missing airport locaitons
+built=2026-04-26 12:20:02
