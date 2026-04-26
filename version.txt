@@ -1,4 +1,4 @@
-tag=v7.10
+tag=v7.11
 type=stable
-note=Fixed missing airport locaitons
-built=2026-04-26 12:20:02
+note=Fixed air mode OTA update and progress bar percentages
+built=2026-04-26 12:37:34
