@@ -1,4 +1,4 @@
-tag=v7.11
-type=stable
-note=
-built=2026-05-04 23:33:38
+tag=v7.12-pre
+type=pre-release
+note=Switching modes fix
+built=2026-05-04 23:56:45
