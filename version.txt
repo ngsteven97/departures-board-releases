@@ -1,4 +1,4 @@
-tag=v7.19-pre
-type=pre-release
-note=Reduced firmware size
-built=2026-05-12 22:13:17
+tag=v8.0
+type=stable
+note=Reduced OTA file size
+built=2026-05-12 22:17:04
