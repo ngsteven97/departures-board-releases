@@ -1,4 +1,4 @@
-tag=v7.16-pre
+tag=v7.17-pre
 type=pre-release
-note=OTA Size reducer
-built=2026-05-12 21:37:24
+note=Reduced firmware size
+built=2026-05-12 21:45:34
