@@ -1,4 +1,4 @@
-tag=v8.2-pre
+tag=v8.3-pre
 type=pre-release
-note=Remove OTA check on air mode
-built=2026-05-14 19:42:12
+note=Reduced size of OTA file
+built=2026-05-14 19:51:39
