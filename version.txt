@@ -1,4 +1,4 @@
-tag=v8.1-pre
+tag=v8.2-pre
 type=pre-release
-note=Added extra IATA fallbacks
-built=2026-05-14 19:14:00
+note=Remove OTA check on air mode
+built=2026-05-14 19:42:12
