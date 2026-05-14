@@ -1,4 +1,4 @@
-tag=v8.3-pre
+tag=v8.4-pre
 type=pre-release
-note=Reduced size of OTA file
-built=2026-05-14 19:51:39
+note=Added live plane tracker feature
+built=2026-05-14 20:12:29
