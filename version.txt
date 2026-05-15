@@ -1,4 +1,4 @@
 tag=v8.7-pre
 type=pre-release
 note=Added live plane tracker feature
-built=2026-05-15 19:45:46
+built=2026-05-15 19:53:56
