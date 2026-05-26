@@ -1,4 +1,4 @@
-tag=v8.21-pre
+tag=v8.22-pre
 type=pre-release
 note=Minified release
-built=2026-05-26 23:46:50
+built=2026-05-26 23:57:08
