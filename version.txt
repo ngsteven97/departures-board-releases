@@ -1,4 +1,4 @@
-tag=v8.20
-type=stable
-note=Plane tracker release
-built=2026-05-17 23:33:38
+tag=v8.21-pre
+type=pre-release
+note=Minified release
+built=2026-05-26 23:46:50
