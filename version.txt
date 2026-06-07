@@ -1,4 +1,4 @@
-tag=v8.22-pre
-type=pre-release
-note=Minified release
-built=2026-05-26 23:57:08
+tag=v8.23
+type=stable
+note=Reduced update size
+built=2026-06-07 17:16:40
