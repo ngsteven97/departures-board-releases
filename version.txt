@@ -1,4 +1,4 @@
-tag=v8.25
+tag=v9.0
 type=stable
-note=Corrected htm webpage bug
-built=2026-07-04 23:40:38
+note=Space mode release and mode improvements
+built=2026-07-27 23:32:28
