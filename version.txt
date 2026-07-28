@@ -1,4 +1,4 @@
-tag=v9.3
+tag=v9.4
 type=stable
-note=OTA Test Update
-built=2026-07-28 21:42:41
+note=Space mode OTA fix
+built=2026-07-28 21:52:51
