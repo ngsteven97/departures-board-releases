@@ -1,4 +1,4 @@
-tag=v9.2
+tag=v9.3
 type=stable
-note=Fixed OTA and sleep conflict
-built=2026-07-28 21:37:44
+note=OTA Test Update
+built=2026-07-28 21:42:41
