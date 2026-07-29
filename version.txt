@@ -1,4 +1,4 @@
-tag=v9.6-pre
+tag=v9.7-pre
 type=pre-release
-note=Waypoint refactoring
-built=2026-07-29 10:33:53
+note=Added raw debug prints
+built=2026-07-29 10:55:05
