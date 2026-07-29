@@ -1,4 +1,4 @@
-tag=v9.7-pre
+tag=v9.8-pre
 type=pre-release
-note=Added raw debug prints
-built=2026-07-29 10:55:05
+note=Combined mode fix
+built=2026-07-29 12:04:10
