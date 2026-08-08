@@ -1,4 +1,4 @@
-tag=v9.8-pre
-type=pre-release
-note=Combined mode fix
-built=2026-07-29 12:04:10
+tag=v9.9
+type=stable
+note=Weather bug fix and updated HTML pages
+built=2026-08-08 13:20:08
