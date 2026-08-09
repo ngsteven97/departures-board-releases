@@ -1,4 +1,4 @@
-tag=v9.14-pre
+tag=v9.15-pre
 type=pre-release
-note=Updated ground mode splashscreen
-built=2026-08-09 09:53:57
+note=Updated webpage settings and weather page
+built=2026-08-09 10:08:03
