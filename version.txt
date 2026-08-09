@@ -1,4 +1,4 @@
-tag=v9.20-pre
-type=pre-release
-note=Updated ground mode splashscreen
-built=2026-08-09 23:55:10
+tag=v9.21
+type=stable
+note=Bugfixes
+built=2026-08-10 00:00:13
