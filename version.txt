@@ -1,4 +1,4 @@
-tag=v9.18-pre
+tag=v9.19-pre
 type=pre-release
-note=Added settling delay between mode changes
-built=2026-08-09 23:31:11
+note=Updated ground mode splashscreen
+built=2026-08-09 23:46:32
