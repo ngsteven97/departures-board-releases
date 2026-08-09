@@ -1,4 +1,4 @@
-tag=v9.15-pre
+tag=v9.16-pre
 type=pre-release
-note=Updated webpage settings and weather page
-built=2026-08-09 10:08:03
+note=Forward declaration buffer fix
+built=2026-08-09 18:05:06
