@@ -1,4 +1,4 @@
-tag=v9.22
-type=stable
-note=Minify webpages
-built=2026-08-10 00:06:33
+tag=v9.23-pre
+type=pre-release
+note=Added new train API
+built=2026-08-11 20:47:29
