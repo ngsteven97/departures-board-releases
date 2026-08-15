@@ -1,4 +1,4 @@
-tag=v9.25-pre
-type=pre-release
-note=Fixed train mode
-built=2026-08-13 23:59:52
+tag=v9.26
+type=stable
+note=Updated train mode with new RDM Rail Client and added legacy OpenLBWDS code
+built=2026-08-15 23:56:59
