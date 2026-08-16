@@ -1,4 +1,4 @@
-tag=v9.27
+tag=v9.28
 type=stable
 note=OTA Update Patch
-built=2026-08-16 11:21:15
+built=2026-08-16 11:50:43
