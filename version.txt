@@ -1,4 +1,4 @@
-tag=v9.30
-type=stable
-note=Updated web handlers for GitHub JSON parsing
-built=2026-08-17 18:52:28
+tag=v9.31-pre
+type=pre-release
+note=Updated webpage guide
+built=2026-09-09 22:33:37
