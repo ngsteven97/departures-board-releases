@@ -1,4 +1,4 @@
-tag=v9.43-pre
+tag=v9.44-pre
 type=pre-release
-note=Fixed TFL initial connection
-built=2026-09-10 19:07:14
+note=Updated TFL garbled messages
+built=2026-09-10 19:14:22
