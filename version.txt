@@ -1,4 +1,4 @@
-tag=v9.36-pre
+tag=v9.37-pre
 type=pre-release
-note=Fixed tube mode call
-built=2026-09-10 14:52:22
+note=Updated mode/default mode conflicts
+built=2026-09-10 14:59:53
