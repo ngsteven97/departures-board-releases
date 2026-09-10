@@ -1,4 +1,4 @@
-tag=v9.37-pre
+tag=v9.38-pre
 type=pre-release
-note=Updated mode/default mode conflicts
-built=2026-09-10 14:59:53
+note=Fixed ground mode conflicts
+built=2026-09-10 15:46:21
