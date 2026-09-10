@@ -1,4 +1,4 @@
-tag=v9.38-pre
+tag=v9.39-pre
 type=pre-release
-note=Fixed ground mode conflicts
-built=2026-09-10 15:46:21
+note=Update ground mode toggles
+built=2026-09-10 18:28:09
