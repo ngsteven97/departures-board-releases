@@ -1,4 +1,4 @@
-tag=v9.51-pre
+tag=v9.52-pre
 type=pre-release
-note=TfL connection timeout debug
-built=2026-09-11 11:49:35
+note=TfL SSL memory allocation fix
+built=2026-09-11 11:54:33
