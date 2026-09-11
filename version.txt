@@ -1,4 +1,4 @@
-tag=v9.47-pre
+tag=v9.48-pre
 type=pre-release
-note=Partial tube segmentation parsing fix
-built=2026-09-11 11:04:50
+note=Webpage allignment
+built=2026-09-11 11:17:39
