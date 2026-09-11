@@ -1,4 +1,4 @@
-tag=v9.58-pre
+tag=v9.59-pre
 type=pre-release
-note=TfL SSL memory allocation fix
-built=2026-09-11 12:44:13
+note=TfL salvage error fix
+built=2026-09-11 12:51:19
