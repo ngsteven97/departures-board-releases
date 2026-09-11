@@ -1,4 +1,4 @@
-tag=v9.55-pre
+tag=v9.56-pre
 type=pre-release
 note=TfL SSL memory allocation fix
-built=2026-09-11 12:12:49
+built=2026-09-11 12:25:14
