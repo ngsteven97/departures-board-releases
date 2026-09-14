@@ -1,4 +1,4 @@
-tag=v9.64-pre
+tag=v9.65-pre
 type=pre-release
-note=Tube mode added debug prints
-built=2026-09-14 12:16:43
+note=Tube reduced to 12KB buffer and skip duplicate disruptions/RSS
+built=2026-09-14 12:56:11
