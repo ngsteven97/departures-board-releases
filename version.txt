@@ -1,4 +1,4 @@
-tag=v9.63-pre
+tag=v9.64-pre
 type=pre-release
-note=Tube noDataLoaded fix
-built=2026-09-13 23:24:14
+note=Tube mode added debug prints
+built=2026-09-14 12:16:43
