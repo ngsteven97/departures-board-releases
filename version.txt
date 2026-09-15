@@ -1,4 +1,4 @@
-tag=v9.68-pre
+tag=v9.69-pre
 type=pre-release
-note=Added heap-tracking prints
-built=2026-09-15 10:10:43
+note=Reduce tube fetch to 60s
+built=2026-09-15 10:30:10
