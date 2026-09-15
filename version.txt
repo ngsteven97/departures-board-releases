@@ -1,4 +1,4 @@
-tag=v9.73-pre
+tag=v9.74-pre
 type=pre-release
-note=Tube mode RSS feed fix
-built=2026-09-15 15:19:08
+note=RSS feed fix
+built=2026-09-15 15:51:21
