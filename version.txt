@@ -1,4 +1,4 @@
-tag=v9.67-pre
+tag=v9.68-pre
 type=pre-release
-note=Tube parallel core task
-built=2026-09-15 09:58:40
+note=Added heap-tracking prints
+built=2026-09-15 10:10:43
