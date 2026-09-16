@@ -1,4 +1,4 @@
-tag=v9.75-pre
+tag=v9.76-pre
 type=pre-release
 note=RSS feed fix
-built=2026-09-16 10:59:52
+built=2026-09-16 12:44:14
