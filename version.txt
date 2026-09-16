@@ -1,4 +1,4 @@
-tag=v9.77-pre
+tag=v9.78-pre
 type=pre-release
-note=TLS stalls fix
-built=2026-09-16 13:42:28
+note=TfL RSS feed fix
+built=2026-09-16 14:00:04
