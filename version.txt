@@ -1,4 +1,4 @@
-tag=v9.79-pre
+tag=v9.80-pre
 type=pre-release
-note=TLS stalls fix
-built=2026-09-16 14:06:17
+note=Large naptanID/HUB fetches
+built=2026-09-16 15:44:01
