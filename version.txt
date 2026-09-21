@@ -1,4 +1,4 @@
-tag=v10.1-pre
+tag=v10.2-pre
 type=pre-release
-note=Updated tube lines fetch
-built=2026-09-21 21:31:24
+note=Added main loop pause before station picker
+built=2026-09-21 22:05:18
