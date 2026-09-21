@@ -1,4 +1,4 @@
-tag=v10.0
-type=stable
-note=Tube mode refactor
-built=2026-09-19 21:19:22
+tag=v10.1-pre
+type=pre-release
+note=Updated tube lines fetch
+built=2026-09-21 21:31:24
