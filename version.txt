@@ -1,4 +1,4 @@
-tag=v10.4-pre
-type=pre-release
-note=Added TFL hub children Json listen filter
-built=2026-09-21 22:48:06
+tag=v10.5
+type=stable
+note=Updated TFL station picker
+built=2026-09-21 22:52:44
