@@ -1,4 +1,4 @@
-tag=v10.7-pre
+tag=v10.8-pre
 type=pre-release
-note=TFL_MIN_CONTIG_FOR_TLS fix
-built=2026-09-22 18:17:16
+note=Added TLS mutex and session guard to rail mode
+built=2026-09-22 18:32:51
