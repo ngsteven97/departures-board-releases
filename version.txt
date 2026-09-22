@@ -1,4 +1,4 @@
-tag=v10.9-pre
+tag=v10.10-pre
 type=pre-release
 note=Combined mode fix
-built=2026-09-22 21:53:12
+built=2026-09-22 22:03:00
