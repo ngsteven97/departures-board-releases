@@ -1,4 +1,4 @@
-tag=v10.17-pre
+tag=v10.18-pre
 type=pre-release
-note=Increased connect try loop watchdog
-built=2026-09-24 22:40:42
+note=Add loopTask subscription
+built=2026-09-24 23:03:59
