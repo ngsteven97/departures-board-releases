@@ -1,4 +1,4 @@
-tag=v10.28-pre
+tag=v10.29-pre
 type=pre-release
-note=Removed TLS buffer limiters
-built=2026-09-25 12:40:51
+note=Added DMBEDTLS_ECDH_VARIANT_EVEREST_ENABLED build flag
+built=2026-09-25 13:19:51
