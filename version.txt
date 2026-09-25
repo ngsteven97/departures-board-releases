@@ -1,4 +1,4 @@
-tag=v10.26-pre
+tag=v10.27-pre
 type=pre-release
-note=Fixed memory allocation fault
-built=2026-09-25 12:00:01
+note=Added combined mode fault log
+built=2026-09-25 12:06:29
