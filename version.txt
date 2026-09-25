@@ -1,4 +1,4 @@
-tag=v10.27-pre
+tag=v10.28-pre
 type=pre-release
-note=Added combined mode fault log
-built=2026-09-25 12:06:29
+note=Removed TLS buffer limiters
+built=2026-09-25 12:40:51
