@@ -1,4 +1,4 @@
-tag=v10.29-pre
+tag=v10.30-pre
 type=pre-release
-note=Added DMBEDTLS_ECDH_VARIANT_EVEREST_ENABLED build flag
-built=2026-09-25 13:19:51
+note=combinedEnsureScratch allocates bus scratch pair when busdata exists
+built=2026-09-25 17:55:39
