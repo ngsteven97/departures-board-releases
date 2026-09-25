@@ -1,4 +1,4 @@
-tag=v10.24-pre
+tag=v10.25-pre
 type=pre-release
-note=Combined mode reduced resources
-built=2026-09-25 10:46:55
+note=Combined mode reduced services
+built=2026-09-25 11:30:51
