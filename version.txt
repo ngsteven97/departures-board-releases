@@ -1,4 +1,4 @@
-tag=v10.21-pre
+tag=v10.22-pre
 type=pre-release
-note=Increased MBEDTLS handshake size
-built=2026-09-25 09:52:07
+note=Reduced max tube service size
+built=2026-09-25 10:16:37
