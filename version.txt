@@ -1,4 +1,4 @@
-tag=v10.20-pre
+tag=v10.21-pre
 type=pre-release
-note=Added checkTubeHeapFragmentation logic to combined mode
-built=2026-09-25 09:38:34
+note=Increased MBEDTLS handshake size
+built=2026-09-25 09:52:07
