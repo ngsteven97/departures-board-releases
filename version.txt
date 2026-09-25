@@ -1,4 +1,4 @@
-tag=v10.23-pre
+tag=v10.24-pre
 type=pre-release
-note=Reduced max tube service size for just combined mode
-built=2026-09-25 10:22:53
+note=Combined mode reduced resources
+built=2026-09-25 10:46:55
