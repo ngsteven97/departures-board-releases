@@ -1,4 +1,4 @@
-tag=v10.42-pre
+tag=v11.0-pre
 type=pre-release
-note=Added bus data log lines
-built=2026-09-29 23:38:14
+note=FINALLY fixed combined mode
+built=2026-09-29 23:40:30
