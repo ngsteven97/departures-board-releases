@@ -1,4 +1,4 @@
-tag=v10.40-pre
+tag=v10.41-pre
 type=pre-release
-note=Combined mode: REST body buffering, tube TLS retry, honest fetch counters
-built=2026-09-29 23:19:25
+note=Rail: stream the RDG REST response instead of buffering it (fixes fallback to SOAP); add minimum spacing between back-to-back rail/bus/tube fetches
+built=2026-09-29 23:31:30
