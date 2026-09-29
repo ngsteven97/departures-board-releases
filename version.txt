@@ -1,4 +1,4 @@
-tag=v11.0-pre
-type=pre-release
-note=FINALLY fixed combined mode
-built=2026-09-29 23:40:30
+tag=v11.1
+type=stable
+note=Stable release: Combined mode fixed
+built=2026-09-29 23:42:26
