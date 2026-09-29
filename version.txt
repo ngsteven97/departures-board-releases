@@ -1,4 +1,4 @@
-tag=v10.35-pre
+tag=v10.36-pre
 type=pre-release
-note=Updated .gitignore
-built=2026-09-29 20:59:56
+note=Added fetchTask debug print
+built=2026-09-29 22:25:43
