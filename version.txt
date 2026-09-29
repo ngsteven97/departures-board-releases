@@ -1,4 +1,4 @@
-tag=v10.39-pre
+tag=v10.40-pre
 type=pre-release
-note=Test push after repo cleanup
-built=2026-09-29 23:09:52
+note=Combined mode: REST body buffering, tube TLS retry, honest fetch counters
+built=2026-09-29 23:19:25
