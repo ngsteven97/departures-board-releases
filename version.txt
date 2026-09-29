@@ -1,4 +1,4 @@
-tag=v10.37-pre
+tag=v10.38-pre
 type=pre-release
-note=Combined mode fixes
-built=2026-09-29 22:35:34
+note=Added DRAM-only readings and cleared memory
+built=2026-09-29 22:51:17
