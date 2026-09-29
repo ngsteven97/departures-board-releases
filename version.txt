@@ -1,4 +1,4 @@
-tag=v10.38-pre
+tag=v10.39-pre
 type=pre-release
-note=Added DRAM-only readings and cleared memory
-built=2026-09-29 22:51:17
+note=Test push after repo cleanup
+built=2026-09-29 23:09:52
