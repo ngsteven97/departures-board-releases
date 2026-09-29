@@ -1,4 +1,4 @@
-tag=v10.31-pre
-type=pre-release
-note=Reduce buffer size for all modes
-built=2026-09-25 23:12:55
+tag=v10.32
+type=stable
+note=
+built=2026-09-29 14:25:38
