@@ -1,4 +1,4 @@
-tag=v11.5-pre
+tag=v11.6-pre
 type=pre-release
-note=Added additional failure logic to space mode
-built=2026-09-30 23:52:22
+note=Added firmware update to air mode
+built=2026-10-01 00:21:07
