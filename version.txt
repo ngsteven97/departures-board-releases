@@ -1,4 +1,4 @@
-tag=v11.11-pre
+tag=v11.12-pre
 type=pre-release
-note=Air mode reduce failure wait time
-built=2026-10-02 10:04:03
+note=Added dead-reckoning to air mode to predict plane location
+built=2026-10-02 10:10:11
