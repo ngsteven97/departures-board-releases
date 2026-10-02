@@ -1,4 +1,4 @@
-tag=v11.22-pre
-type=pre-release
+tag=v11.23
+type=stable
 note=Added scratch buffers on teardown for tube/combined
-built=2026-10-02 15:17:21
+built=2026-10-02 15:25:11
