@@ -1,4 +1,4 @@
-tag=v11.18-pre
+tag=v11.19-pre
 type=pre-release
-note=Refactor of libraries batch 2
-built=2026-10-02 12:17:40
+note=Refactor of libraries batch 3
+built=2026-10-02 13:40:55
