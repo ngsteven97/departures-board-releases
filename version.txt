@@ -1,4 +1,4 @@
-tag=v11.12-pre
+tag=v11.13-pre
 type=pre-release
-note=Added dead-reckoning to air mode to predict plane location
-built=2026-10-02 10:10:11
+note=Reverted dead-reackoning on altitude and speed
+built=2026-10-02 10:19:48
