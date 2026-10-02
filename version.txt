@@ -1,4 +1,4 @@
-tag=v11.19-pre
+tag=v11.20-pre
 type=pre-release
-note=Refactor of libraries batch 3
-built=2026-10-02 13:40:55
+note=Reverted tube mode library
+built=2026-10-02 14:04:19
