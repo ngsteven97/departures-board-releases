@@ -1,4 +1,4 @@
-tag=v11.7-pre
+tag=v11.8-pre
 type=pre-release
-note=Added VRS Standing Data lookup for flightpaths
-built=2026-10-02 09:36:52
+note=Increased waits between fetches to avoid 429 errors
+built=2026-10-02 09:46:15
