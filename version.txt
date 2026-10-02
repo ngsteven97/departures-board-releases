@@ -1,4 +1,4 @@
-tag=v11.8-pre
+tag=v11.9-pre
 type=pre-release
-note=Increased waits between fetches to avoid 429 errors
-built=2026-10-02 09:46:15
+note=Reverted air mode detail view to 1s fetch
+built=2026-10-02 09:57:27
