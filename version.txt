@@ -1,4 +1,4 @@
-tag=v11.24-pre
-type=pre-release
-note=Updated API keys save
-built=2026-10-02 19:02:00
+tag=v11.25
+type=stable
+note=Updated setup wizard
+built=2026-10-02 19:17:59
