@@ -1,4 +1,4 @@
-tag=v11.30-pre
-type=pre-release
+tag=v11.31
+type=stable
 note=Added dead reackoning to list view and updated default distance
-built=2026-10-03 16:24:19
+built=2026-10-03 17:39:53
