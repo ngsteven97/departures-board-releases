@@ -1,4 +1,4 @@
-tag=v11.27-pre
+tag=v11.28-pre
 type=pre-release
-note=Added additional overhead plane tracking
-built=2026-10-03 00:21:48
+note=Added additional plane logging
+built=2026-10-03 11:32:42
