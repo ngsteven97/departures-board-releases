@@ -1,4 +1,4 @@
-tag=v11.28-pre
+tag=v11.30-pre
 type=pre-release
-note=Added additional plane logging
-built=2026-10-03 11:32:42
+note=Added dead reackoning to list view and updated default distance
+built=2026-10-03 16:24:19
