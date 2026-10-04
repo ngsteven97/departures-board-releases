@@ -1,4 +1,4 @@
-tag=v11.42
-type=stable
-note=Updated web_handlers to handle OTA update
-built=2026-10-04 23:47:14
+tag=v11.43-pre
+type=pre-release
+note=Updated web pages to locally fetch git updates
+built=2026-10-05 00:24:39
