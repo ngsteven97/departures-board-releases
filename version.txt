@@ -1,4 +1,4 @@
-tag=v11.40
-type=stable
-note=Reduced airports_full_worldwide database
-built=2026-10-04 23:31:36
+tag=v11.41-pre
+type=pre-release
+note=Updated web_handlers to handle OTA update
+built=2026-10-04 23:45:32
