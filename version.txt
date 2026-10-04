@@ -1,4 +1,4 @@
-tag=v11.39
+tag=v11.40
 type=stable
 note=Reduced airports_full_worldwide database
-built=2026-10-04 23:28:39
+built=2026-10-04 23:31:36
