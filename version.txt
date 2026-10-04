@@ -1,4 +1,4 @@
-tag=v11.34-pre
+tag=v11.35-pre
 type=pre-release
-note=Updated arrival time timecode
-built=2026-10-04 20:20:00
+note=Updated flight search logic
+built=2026-10-04 20:29:36
