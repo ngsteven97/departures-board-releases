@@ -1,4 +1,4 @@
-tag=v11.35-pre
+tag=v11.36-pre
 type=pre-release
 note=Updated flight search logic
-built=2026-10-04 20:29:36
+built=2026-10-04 22:31:58
