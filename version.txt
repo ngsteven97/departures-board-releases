@@ -1,4 +1,4 @@
-tag=v11.38-pre
-type=pre-release
-note=Use ADS-B for callsign/origin/destination and AeroDataBox for flight information matching algorithm
-built=2026-10-04 23:09:19
+tag=v11.39
+type=stable
+note=Reduced airports_full_worldwide database
+built=2026-10-04 23:28:39
