@@ -1,4 +1,4 @@
-tag=v11.37-pre
+tag=v11.38-pre
 type=pre-release
-note=Updated AeroDataBox to use IATA ADS-B callsign
-built=2026-10-04 22:48:32
+note=Use ADS-B for callsign/origin/destination and AeroDataBox for flight information matching algorithm
+built=2026-10-04 23:09:19
