@@ -1,4 +1,4 @@
-tag=v11.46-pre
-type=pre-release
-note=Pause fetchTask, clear scratch buffers before performing OTA update
-built=2026-10-05 18:48:46
+tag=v11.47
+type=stable
+note=Updated OTA install process
+built=2026-10-05 18:55:19
