@@ -1,4 +1,4 @@
-tag=v11.45-pre
+tag=v11.46-pre
 type=pre-release
-note=Updated HTTPUpdateGitHub for TLS connection fix
-built=2026-10-05 00:37:01
+note=Pause fetchTask, clear scratch buffers before performing OTA update
+built=2026-10-05 18:48:46
