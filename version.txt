@@ -1,4 +1,4 @@
-tag=v11.48
-type=stable
-note=Increased air mode waits
-built=2026-10-06 21:01:29
+tag=v11.49-pre
+type=pre-release
+note=Added debug prints to HTTP 429 errors
+built=2026-10-06 21:11:01
