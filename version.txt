@@ -1,4 +1,4 @@
-tag=v11.47
+tag=v11.48
 type=stable
-note=Updated OTA install process
-built=2026-10-05 18:55:19
+note=Increased air mode waits
+built=2026-10-06 21:01:29
