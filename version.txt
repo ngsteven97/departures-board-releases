@@ -1,4 +1,4 @@
-tag=v11.53-pre
+tag=v11.54-pre
 type=pre-release
-note=Added airplanes.live ADS-B fallback
-built=2026-10-19 23:05:22
+note=Added adsb.fi as fallback
+built=2026-10-20 18:47:41
